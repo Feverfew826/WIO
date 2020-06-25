@@ -1,0 +1,21 @@
+Hexagonal grid
+https://www.redblobgames.com/grids/hexagons/
+
+Unreal 쉐이더
+https://darkcatgame.tistory.com/28
+https://www.raywenderlich.com/146-unreal-engine-4-cel-shading-tutorial
+
+Unreal Scan effect
+https://www.youtube.com/watch?v=Qr_TdvmYvqY
+
+Unreal Optimization - what are draw calls
+https://unreal.tips/en/what-are-draw-calls/#less-calls
+
+Unreal Optimization - InstancedStaticMesh
+https://www.youtube.com/watch?v=oMIbV2rQO4k&t=1523s
+
+Unreal Optimization - Parallelfor/
+https://isaratech.com/ue4-improving-speed-with-parallelfor/
+
+Unity 쉐이더
+https://roystan.net/articles/toon-shader.html
